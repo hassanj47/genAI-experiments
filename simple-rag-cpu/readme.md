@@ -1,7 +1,7 @@
 ## A simple rag demo on CPU
 
 ### Description
-This is a simple demo for retrieval augmented generation built to illustrate the basic
+This is a simple demo for retrieval augmented generation (RAG) built to illustrate the basic
 workflow of a RAG application using a ```llama3.2:3b``` model on a 13th Generation 
 Intel core i7-1355U cpu with 16GB ram and no gpu.
 
@@ -12,7 +12,7 @@ Intel core i7-1355U cpu with 16GB ram and no gpu.
 
 ### Functionality
 Currently, retrieves a few web pages with a fixed chunking size and embeddings based on
-a ```all-minilm``` dense retreiever and answers queries based on them without any LLM
+a ```all-minilm``` dense retreiever and answers queries using this context without any LLM
 feedback.
 
 ### Known problems
