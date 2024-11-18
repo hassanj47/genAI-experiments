@@ -1,6 +1,6 @@
 # ReAct Agent: Reasoning and Action with Llama 3.2
 
-This repository contains the implementation of a ReAct (Reasoning + Acting) agent using the Llama 3.2 model. 
+This repository contains the implementation of a ReAct (Reasoning + Action) agent using the Llama 3.2 model. 
 
 ---
 
